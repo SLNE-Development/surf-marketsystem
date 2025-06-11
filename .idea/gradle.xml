@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Gradle/gradle-8.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/surf-auctionhouse" />
+            <option value="$PROJECT_DIR$/surf-auctionhouse/surf-auctionhouse-api" />
+            <option value="$PROJECT_DIR$/surf-auctionhouse/surf-auctionhouse-core" />
+            <option value="$PROJECT_DIR$/surf-auctionhouse/surf-auctionhouse-fallback" />
+            <option value="$PROJECT_DIR$/surf-auctionhouse/surf-auctionhouse-paper" />
+            <option value="$PROJECT_DIR$/surf-bazaar" />
+            <option value="$PROJECT_DIR$/surf-bazaar/surf-bazaar-api" />
+            <option value="$PROJECT_DIR$/surf-bazaar/surf-bazaar-paper" />
+            <option value="$PROJECT_DIR$/surf-marketsystem-fallback" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
